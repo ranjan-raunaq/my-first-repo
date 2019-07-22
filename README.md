@@ -1,29 +1,26 @@
-# This is a large heading
+# Raunak Ranjan
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Bengaluru, in the state of Karnataka, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Wise and otherwise* by Sudha Murthy
+- *Harry Potter* by J. K. Rowling
+- *Persepolis* by Marjane Satrapi
 
-```
-This is
-a block
-of code
-```
+### Travel
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about visiting these places:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Mysuru in Karnataka.
+2. Shillong in Meghalaya.
+3. Gangtok in Sikkim.
+
+### Contact
+
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/raunak-ranjan/).
 
